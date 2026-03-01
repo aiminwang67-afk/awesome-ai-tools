@@ -134,5 +134,29 @@
 
 ---
 
-Full directory: [ai123.help](https://ai123.help)
+## 🔥 Popular Comparisons
+
+Find detailed head-to-head comparisons at [ai123.help/global/compare](https://ai123.help/global/compare):
+
+- [ChatGPT vs Claude](https://ai123.help/global/compare/chatgpt-vs-claude) — Which AI assistant is better?
+- [ChatGPT vs DeepSeek](https://ai123.help/global/compare/chatgpt-vs-deepseek) — Free vs premium AI
+- [Midjourney vs DALL-E](https://ai123.help/global/compare/midjourney-vs-dall-e) — Best AI art generator
+- [Cursor vs Windsurf](https://ai123.help/global/compare/cursor-vs-windsurf) — AI coding IDE showdown
+- [GitHub Copilot vs Cursor](https://ai123.help/global/compare/github-copilot-vs-cursor) — Best AI code assistant
+- [Suno vs Udio](https://ai123.help/global/compare/suno-vs-udio) — AI music generation compared
+- [Perplexity vs Google](https://ai123.help/global/compare/perplexity-vs-google) — AI search vs traditional search
+
+## 📦 Best-of Collections
+
+- [Best AI Tools for Writing](https://ai123.help/global/collections/best-ai-tools-for-writing)
+- [Best AI Tools for Coding](https://ai123.help/global/collections/best-ai-tools-for-coding)
+- [Best AI Image Generators](https://ai123.help/global/collections/best-ai-image-generators)
+- [Best Free AI Tools](https://ai123.help/global/collections/best-free-ai-tools)
+- [Best AI Tools for Students](https://ai123.help/global/collections/best-ai-tools-for-students)
+- [Best AI Tools for Marketing](https://ai123.help/global/collections/best-ai-tools-for-marketing)
+- [All Collections →](https://ai123.help/global/collections)
+
+---
+
+Full directory with 500+ tools: [ai123.help](https://ai123.help) | 中文站: [ai123.help/cn](https://ai123.help/cn)
 
