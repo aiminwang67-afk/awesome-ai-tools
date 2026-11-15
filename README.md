@@ -27,6 +27,7 @@
 - [通义千问](https://tongyi.aliyun.com) - 阿里云大语言模型，中文能力强
 - [文心一言](https://yiyan.baidu.com) - 百度大语言模型
 - [豆包](https://www.doubao.com) - 字节跳动推出的 AI 对话助手，支持多轮对话和知识问答
+- [Sammi: AI Girlfriend](https://sammiai.app/) - Android fictional AI character chat with voice interaction, customization and creative roleplay; free download with in-app purchases.
 
 ### AI Code
 
